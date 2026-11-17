@@ -1,0 +1,17 @@
+﻿{
+  "name": "NegiMusic - Premium HD Music",
+  "short_name": "NegiMusic",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#121212",
+  "description": "Stream unlimited HD songs with Spotify UI and soundwave player.",
+  "icons": [
+    {
+      "src": "https://soundwave-music-bmpe.onrender.com/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
